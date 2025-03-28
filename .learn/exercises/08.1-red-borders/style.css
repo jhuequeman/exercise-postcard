@@ -1,0 +1,21 @@
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+
+body {
+	background: black;
+}
+
+.body-left p: :first-child {
+	margin-top: 0PX;
+}
+
+.body-left,
+.body-right {
+	padding: 5px;
+}
+input{
+	border-bottom: gray 2px;
+	border: 2px;
+}
